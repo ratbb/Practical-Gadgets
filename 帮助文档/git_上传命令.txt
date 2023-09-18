@@ -1,0 +1,6 @@
+git init
+git config --global user.name "用户名"
+git config --global user.email "邮箱"
+git remote add origin "项目SSH"
+git pull origin master
+git push -u origin master
